@@ -5,7 +5,7 @@ This Repository contains a basic intrusion detection system that detects anomaly
 Normal - Normal
 Attack - Attack, Flood
 
-#Technology
+# Technology
 - Python
 - Python Pandas Library
 - Python Matplotlib library
